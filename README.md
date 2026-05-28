@@ -45,13 +45,13 @@ I build practical things across **software, servers, and content** — from Pyth
 
 - **Modrinth (main creator profile):**
   - https://modrinth.com/user/aurum
-  - 19 projects *(as of May 2025)*
-  - **550.6K+ downloads** *(as of May 2025)*
+  - 19 projects *(as of May 2026)*
+  - **550.6K+ downloads** *(as of May 2026)*
 
 - **CurseForge profile:**
   - https://www.curseforge.com/members/auuruum/projects
-  - 7 followers *(as of May 2025)*
-  - **3.4M+ downloads** *(as of May 2025)*
+  - 7 followers *(as of May 2026)*
+  - **3.4M+ downloads** *(as of May 2026)*
 
 - **rustplusplus fork:**
   - https://github.com/auuruum/rustplusplus
