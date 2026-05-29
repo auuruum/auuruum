@@ -1,7 +1,18 @@
 # Hi, I'm Aurimas 👋
+
 ### Python • Embedded (Arduino/ESP) • Linux/Cloud • Creative Tech
 
-I build practical things across **software, servers, and content** — from Python automation and embedded projects to Linux infrastructure and community-scale deployments.
+I build practical things across **software, servers, and infrastructure** — from embedded development and automation to Linux infrastructure, APIs, and community-scale deployments.
+
+<p align="center">
+  <a href="https://modrinth.com/user/aurum">
+    <img src="https://aurumoracle.duckdns.org/api/modrinth/card.svg?small">
+  </a>
+  
+  <a href="https://www.curseforge.com/members/auuruum/projects">
+    <img src="https://aurumoracle.duckdns.org/api/curseforge/card.svg?small">
+  </a>
+</p>
 
 ---
 
@@ -16,9 +27,9 @@ I build practical things across **software, servers, and content** — from Pyth
 
 ### Embedded / Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP](https://img.shields.io/badge/ESP32%20%2F%20ESP8266-000000?style=for-the-badge&logo=esphome&logoColor=white)
+![ESP32 / ESP8266](https://img.shields.io/badge/ESP32%20%2F%20ESP8266-000000?style=for-the-badge&logo=esphome&logoColor=white)
 
-### DevOps / Infra
+### DevOps / Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -28,6 +39,8 @@ I build practical things across **software, servers, and content** — from Pyth
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+
+### Virtualization
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
@@ -43,21 +56,17 @@ I build practical things across **software, servers, and content** — from Pyth
 
 ## 🏆 Featured Work
 
-- **Modrinth (main creator profile):**
-  - https://modrinth.com/user/aurum
-  - 19 projects *(as of May 2026)*
-  - **550.6K+ downloads** *(as of May 2026)*
+- Modrinth creator profile  
+  https://modrinth.com/user/aurum
 
-- **CurseForge profile:**
-  - https://www.curseforge.com/members/auuruum/projects
-  - 7 followers *(as of May 2026)*
-  - **3.4M+ downloads** *(as of May 2026)*
+- CurseForge creator profile  
+  https://www.curseforge.com/members/auuruum/projects
 
-- **rustplusplus fork:**
-  - https://github.com/auuruum/rustplusplus
+- rustplusplus fork  
+  https://github.com/auuruum/rustplusplus
 
-- **Support / creator page:**
-  - https://ko-fi.com/auuruum
+- Support / creator page  
+  https://ko-fi.com/auuruum
 
 ---
 
@@ -67,9 +76,8 @@ I build practical things across **software, servers, and content** — from Pyth
 
 ---
 
-## 🧩 About me
+## 🧩 About Me
 
 - Based in **Vilnius, Lithuania**
-- I enjoy building across code, infrastructure, and creative workflows
-- I work in **LT / RU / EN**
-
+- Interested in infrastructure, APIs, automation, embedded systems, and creator tooling
+- Working across **LT / RU / EN**
