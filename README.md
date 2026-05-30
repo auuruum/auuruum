@@ -4,6 +4,12 @@
 
 I build practical things across **software, servers, and infrastructure** — from embedded development and automation to Linux infrastructure, APIs, and community-scale deployments.
 
+<h3 align="center">
+  <a href="https://auuruum.github.io/portfolio">
+    🌐 Explore My Portfolio
+  </a>
+</h3>
+
 <p align="center">
   <a href="https://modrinth.com/user/aurum">
     <img src="https://aurumoracle.duckdns.org/api/modrinth/card.svg?small">
